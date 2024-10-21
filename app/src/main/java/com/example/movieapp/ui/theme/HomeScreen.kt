@@ -10,7 +10,6 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.NavHostController
 
 @Composable
@@ -21,7 +20,7 @@ fun HomeScreen (navController: NavHostController) {
     ){
         Text(
             modifier = Modifier.clickable {
-                navController.navigate(Screens.Detail.route)
+                navController.navigate(Screens.Detail.passID(11))
             },
             text = "Hello ",
             color = Color.Red,
