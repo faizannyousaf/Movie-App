@@ -2,4 +2,4 @@ This Android application allows users to explore a list of movies and view detai
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1)
+![Screenshot 1](./screenshots/screenshot1.png)
