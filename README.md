@@ -4,4 +4,6 @@ This Android application allows users to explore a list of movies and view detai
 
 
 ![image](https://github.com/user-attachments/assets/ae0be740-54cf-4a88-897d-6ca0a796eac7)
+<img width="368" alt="Screenshot 2024-10-23 at 16 34 45" src="https://github.com/user-attachments/assets/5155b1ee-ad9b-49e8-a034-dd251cd7dc41">
+
 
